@@ -1,0 +1,3 @@
+/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/CMakeFiles/sample.dir

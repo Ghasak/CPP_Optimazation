@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="optim-sample"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Desktop\;CMake Files\..\..\Desktop\vcpkg\;CMake Files\..\..\Desktop\vcpkg\scripts\;CMake Files\..\..\Desktop\vcpkg\scripts\buildsystems\;CMake Files\..\..\Desktop\vcpkg\installed\;CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\;CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\;CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sample">
+				<Option output="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Ghasak/Desktop/vcpkg/installed/x64-osx/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 sample"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sample/fast">
+				<Option output="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Ghasak/Desktop/vcpkg/installed/x64-osx/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 sample/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/main.cpp">
+			<Option target="sample"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\scripts\buildsystems\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/installed/x64-osx/share/Armadillo/ArmadilloConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/installed/x64-osx/share/Armadillo/ArmadilloConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/installed/x64-osx/share/Armadillo/ArmadilloLibraryDepends-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/installed/x64-osx/share/Armadillo/ArmadilloLibraryDepends-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\"/>
+		</Unit>
+		<Unit filename="/Users/Ghasak/CLionProjects/optim-sample/../../Desktop/vcpkg/installed/x64-osx/share/Armadillo/ArmadilloLibraryDepends.cmake">
+			<Option virtualFolder="CMake Files\..\..\Desktop\vcpkg\installed\x64-osx\share\Armadillo\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

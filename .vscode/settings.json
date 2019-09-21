@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "includePath": ["${workspaceFolder}/**", "~/Desktop/vcpkg/installed/x64-osx/share/Armadillo"],
+}

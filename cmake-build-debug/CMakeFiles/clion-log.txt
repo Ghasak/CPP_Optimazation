@@ -1,0 +1,4 @@
+"/Users/Ghasak/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=/Users/Ghasak/Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake -G "CodeBlocks - Unix Makefiles" /Users/Ghasak/CLionProjects/optim-sample
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Ghasak/CLionProjects/optim-sample/cmake-build-debug
